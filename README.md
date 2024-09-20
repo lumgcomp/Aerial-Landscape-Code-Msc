@@ -12,6 +12,9 @@ If you are using an environment such as VS Code, you can open the terminal and i
 
 pip install -r requirements.txt
 
+Errors within the baseline model training can be ignored, same as with the transfer learning model training.
+Error with Grad-CAM has been resolved, notebook not run after fixing so this error still shows.
+
 # Model Accuracies
 It is important to note that these accuracies may vary slightly due to factors such as random initialization, shuffling of the data, and other inherent randomness in the training process. The actual performance might vary by a small margin but should be close to these values.
 
