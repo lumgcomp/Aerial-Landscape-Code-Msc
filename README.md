@@ -13,6 +13,7 @@ If you are using an environment such as VS Code, you can open the terminal and i
 pip install -r requirements.txt
 
 Errors within the baseline model training can be ignored, same as with the transfer learning model training.
+
 Error with Grad-CAM has been resolved, notebook not run after fixing so this error still shows.
 
 # Model Accuracies
