@@ -9,7 +9,7 @@ These datasets should be added to the same folder as the notebook, or uploaded t
 
 If you are using an environment such as VS Code, you can open the terminal and install the required libraries using:
 
-```bash
+
 pip install -r requirements.txt
 
 Model Accuracies
@@ -27,10 +27,4 @@ Validation Accuracy: Ranges from 59% to 68%
 Test Accuracy: Ranges from 59% to 70%
 
 
-### Changes and Improvements:
-1. **Headings**: Added a space between the `#` and the heading text (e.g., `# Model accuracies` → `# Model Accuracies`).
-2. **Line Breaks**: Ensured there are two spaces after lines where you want a break (such as in the dataset links).
-3. **URL formatting**: I formatted URLs using `[link text](URL)` syntax to make them cleaner.
-4. **Consistent Formatting**: Used bullet points and bold text for better readability.
 
-This should now render correctly on GitHub or any Markdown viewer. Let me know if this resolves the issue!
