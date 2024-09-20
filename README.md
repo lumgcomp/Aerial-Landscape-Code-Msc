@@ -28,6 +28,6 @@ Test Accuracy: Ranges from 59% to 70%
 
 # Video Link to Working Code
 
-- **Test dataset**: [Here](https://southwales.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b09d65ee-569c-41e6-8946-b1f100022871)
+- **Video link**: [Here](https://southwales.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b09d65ee-569c-41e6-8946-b1f100022871)
 
 
